@@ -24,9 +24,6 @@ Soy estudiante de Ingeniería en Computadores en el [Instituto Tecnológico de C
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![System Verilog](https://img.shields.io/badge/SystemVerilog-FFA500?logo=verilog&logoColor=white)
 ![ARMv4 ASM](https://img.shields.io/badge/ASM-ARMv4-blueviolet)
 ![RISC-V ASM](https://img.shields.io/badge/ASM-RISC--V-green)
@@ -82,7 +79,7 @@ Juego de Breakout que tiene un servidor, cliente jugador y cliente espectador.
 
 ## 📫 Contacto
 
-- 📧 josebarqueboni@gmail.com   
+- 📧 josebarqueroboni@gmail.com   
 - 🏢 [Organización de proyectos académicos – ProyectosCE](https://github.com/ProyectosCE)
 
 ---
