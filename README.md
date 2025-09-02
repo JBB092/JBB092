@@ -67,13 +67,16 @@ Procesador ARMv4 en System Verilog que implementa una aplicación desarrollada e
 🔹 [**Breakout Game**](https://github.com/ProyectosCE/CE1106_T04.git)  
 Juego de Breakout que tiene un servidor, cliente jugador y cliente espectador.
 
+🔹 [**Algoritmo TEA con padding PKCS#7**](https://github.com/JBB092/CE4301_P1.git)  
+Algoritmo de encriptación y desencriptación en RISC-V con padding PKCS#7 en C en un ambiente controlado con Docker y QEMU+GDB.
+
 > Puedes ver más proyectos en mi organización [**ProyectosCE**](https://github.com/ProyectosCE).
 
 ---
 
 ## 📊 Estadísticas
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBB092&show_icons=true&theme=dark)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBB092&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
