@@ -1,106 +1,102 @@
+
 # 👋 ¡Hola! Soy José Barquero
 
-![TEC](https://img.shields.io/badge/TEC-Instituto%20Tecnol%C3%B3gico%20de%20Costa%20Rica-blue)
-![GitHub User](https://img.shields.io/badge/GitHub-JBB092-181717?logo=github)
-![ProyectosCE](https://img.shields.io/badge/Organizaci%C3%B3n-ProyectosCE-0066cc?logo=github)
+[![TEC](https://img.shields.io/badge/TEC-Tecnológico%20de%20Costa%20Rica-0066A1)](https://www.tec.ac.cr/)
+[![GitHub](https://img.shields.io/badge/GitHub-JBB092-181717?logo=github&logoColor=white)](https://github.com/JBB092)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Barquero-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-bdo-barquero/)
 
-Soy estudiante de Ingeniería en Computadores en el [Instituto Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/), apasionado por la arquitectura de computadores y la programación de sistemas. En este perfil encontrarás proyectos académicos desarrollados a lo largo de mi carrera, especialmente en la organización [**ProyectosCE**](https://github.com/ProyectosCE).
+Soy estudiante avanzado de **Ingeniería en Computadores** en el **Tecnológico de Costa Rica (TEC)**. Me interesan especialmente los **sistemas embebidos**, la **arquitectura de computadores**, el **diseño digital** y el **procesamiento digital de señales**.
 
----
+Me gusta comprender cómo interactúan el hardware y el software: llevar los conceptos teóricos a implementaciones prácticas, analizar su funcionamiento y explorar oportunidades de optimización. En este perfil comparto proyectos académicos desarrollados individualmente y en equipo, principalmente con **C, C++, SystemVerilog y Linux**.
 
-## 🎓 Formación
+## 🎯 Áreas de interés
 
-- **Carrera:** Ingeniería en Computadores  
-- **Universidad:** Instituto Tecnológico de Costa Rica  
-- **En curso desde:** 2023
+- **Sistemas embebidos y firmware:** integración hardware-software y programación de bajo nivel.
+- **Arquitectura de computadores:** memoria, paralelismo y análisis de rendimiento.
+- **Diseño digital:** modelado, simulación de hardware y desarrollo con FPGA.
+- **Procesamiento digital de señales (DSP):** algoritmos en tiempo real y optimización.
 
----
+## 🛠️ Tecnologías y herramientas
 
-## 💻 Tecnologías y herramientas
+**Lenguajes y diseño de hardware**
 
-### 🧠 Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![System Verilog](https://img.shields.io/badge/SystemVerilog-FFA500?logo=verilog&logoColor=white)
-![ARMv4 ASM](https://img.shields.io/badge/ASM-ARMv4-blueviolet)
-![RISC-V ASM](https://img.shields.io/badge/ASM-RISC--V-green)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5B3B8C)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-3949AB?logo=arm&logoColor=white)
+![RISC-V Assembly](https://img.shields.io/badge/RISC--V%20Assembly-283272?logo=riscv&logoColor=white)
 
-### 🧰 Frameworks y tecnologías
+**Sistemas y plataformas**
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Yocto Project](https://img.shields.io/badge/Yocto%20Project-00598B)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-3949AB)
+![Qt 6](https://img.shields.io/badge/Qt%206-41CD52?logo=qt&logoColor=white)
 
-### 🗄️ Bases de datos
-
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-
-### 🛠️ Herramientas
+**Desarrollo, simulación y pruebas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Meson](https://img.shields.io/badge/Meson-4285F4)
+![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5)
+![Questa](https://img.shields.io/badge/Questa-0A5364)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4)
 
----
-
-## 🚀 Áreas de interés
-
-- Arquitectura de Computadores   
-- Programación de sistemas embebidos  
-- Análisis de señales y sistemas digitales  
-
----
+**Técnicas aplicadas:** SIMD (AVX2), programación paralela, aritmética de punto fijo (Q15), pruebas automatizadas y benchmarking.
 
 ## 📌 Proyectos destacados
 
-🔹 [**Simulador RISC-V**](https://github.com/ProyectosCE/CE1107_PG2.git)  
-Simulador educativo en Python de un procesador con pipeline de 5 etapas, predicción de saltos, detección de hazards y métricas.
+### 🤖 [Sistema embebido para robot aspiradora autónomo](https://github.com/ProyectosCE/CE1113_P1)
 
-🔹 [**Aplicación para Procesador ARMv4**](https://github.com/ProyectosCE/CE3201_PF.git)  
-Procesador ARMv4 en System Verilog que implementa una aplicación desarrollada en código ensamblador.
+`C` · `Raspberry Pi 4` · `Linux` · `Yocto Project` · `GPIO/PWM`
 
-🔹 [**Breakout Game**](https://github.com/ProyectosCE/CE1106_T04.git)  
-Juego de Breakout que tiene un servidor, cliente jugador y cliente espectador.
+**El proyecto:** Proyecto en equipo orientado al desarrollo de un sistema embebido para un robot aspiradora, con control de periféricos y funciones previstas de navegación, audio y operación remota.
 
-🔹 [**Algoritmo TEA con padding PKCS#7**](https://github.com/JBB092/CE4301_P1.git)  
-Algoritmo de encriptación y desencriptación en RISC-V con padding PKCS#7 en C en un ambiente controlado con Docker y QEMU+GDB.
+**Mis contribuciones:** Desarrollo de interfaces de hardware y una API en C para abstraer GPIO, PWM y otros periféricos; colaboración con recetas de Yocto y organización del trabajo mediante Git y GitHub.
+
+### 🎵 Procesamiento digital de audio en tiempo real
+
+`C++20` · `DSP` · `YIN` · `SIMD` · `Q15`
+
+**El proyecto:** Aplicación en Linux para analizar y procesar audio en tiempo real, con módulos de detección de tono, síntesis y efectos digitales.
+
+**Mis contribuciones:** Implementación del detector de tono YIN, un sintetizador senoidal, efectos de retardo FIR/IIR y procesamiento en punto fijo Q15; pruebas de precisión y rendimiento, con optimizaciones SIMD.
+
+🔒 **[Repositorio privado](https://github.com/EL5805-26S2/p1-mib.git)** — acceso restringido a miembros autorizados.
+
+### 🧩 [Modelado de interconnect y coherencia de caché](https://github.com/ProyectosCE/CE4302_PG01)
+
+`SystemVerilog` · `Arquitectura de computadores` · `Questa`
+
+**El proyecto:** Modelado y simulación de un sistema de interconexión para analizar el comportamiento de protocolos de coherencia de caché en arquitecturas multiprocesador.
+
+**Mis contribuciones:** Diseño y desarrollo de componentes de interconexión y mecanismos de coherencia, junto con su análisis mediante simulaciones en SystemVerilog.
+
+### 🧵 [Framework experimental de paralelismo a nivel de hilos (TLP)](https://github.com/JBB092/CE4302_PI)
+
+`C++` · `Multithreading` · `Linux perf` · `Python`
+
+**El proyecto:** Framework individual para comparar modelos de ejecución y paralelismo utilizando un ecualizador basado en filtros FIR como caso de estudio.
+
+**Mis contribuciones:** Implementación de ejecución secuencial, modelos simulados FGMT/CGMT y aproximaciones de SMT/CMP mediante hilos de C++; automatización de experimentos y análisis de métricas de rendimiento.
+
+### Otros proyectos
+
+- **[Paralelismo a nivel de datos (DLP)](https://github.com/ProyectosCE/CE4302_PG02):** comparación de un filtro FIR escalar, SIMD (AVX2/FMA) y GPU (OpenCL). Mis aportes se centraron en las implementaciones escalar y SIMD.
+- **[Cifrado TEA en RISC-V](https://github.com/JBB092/CE4301_P1):** proyecto individual de cifrado y descifrado desarrollado en C y ensamblador RISC-V, ejecutado con QEMU.
 
 > Puedes ver más proyectos en mi organización [**ProyectosCE**](https://github.com/ProyectosCE).
 
----
-
-## 📊 Estadísticas
-
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBB092&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 📫 Contacto
 
-- 📧 josebarqueroboni@gmail.com   
-- 🏢 [Organización de proyectos académicos – ProyectosCE](https://github.com/ProyectosCE)
+- 📧 **Correo:** [josebarqueroboni@gmail.com](mailto:josebarqueroboni@gmail.com)
+- 💼 **LinkedIn:** [jose-bdo-barquero](https://www.linkedin.com/in/jose-bdo-barquero/)
+- 🏢 **Proyectos académicos:** [ProyectosCE](https://github.com/ProyectosCE)
 
 ---
 
 > “La arquitectura no es sólo la forma del hardware, sino cómo se piensa el software.”  
 > – Inspirado por David A. Patterson
-
-<!--
-**JBB092/JBB092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
