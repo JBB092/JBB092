@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JBB092-181717?logo=github&logoColor=white)](https://github.com/JBB092)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Barquero-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-bdo-barquero/)
 
-I am an advanced **Computer Engineering** student at the **Costa Rica Institute of Technology (TEC)**. My main interests include **embedded systems**, **computer architecture**, **digital design**, and **digital signal processing**.
+I am an advanced **Computer Engineering** student at the **Instituto Tecnológico de Costa Rica (TEC)**. My main interests include **embedded systems**, **computer architecture**, **digital design**, and **digital signal processing**.
 
 I enjoy understanding how hardware and software interact: translating theoretical concepts into practical implementations, analyzing their behavior, and exploring optimization opportunities. On this profile, I share academic projects developed individually and as part of a team, primarily using **C, C++, SystemVerilog, and Linux**.
 
