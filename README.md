@@ -1,33 +1,32 @@
+# 👋 Hi! I'm José Barquero
 
-# 👋 ¡Hola! Soy José Barquero
-
-[![TEC](https://img.shields.io/badge/TEC-Tecnológico%20de%20Costa%20Rica-0066A1)](https://www.tec.ac.cr/)
+[![TEC](https://img.shields.io/badge/TEC-Costa%20Rica%20Institute%20of%20Technology-0066A1)](https://www.tec.ac.cr/)
 [![GitHub](https://img.shields.io/badge/GitHub-JBB092-181717?logo=github&logoColor=white)](https://github.com/JBB092)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Barquero-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-bdo-barquero/)
 
-Soy estudiante avanzado de **Ingeniería en Computadores** en el **Tecnológico de Costa Rica (TEC)**. Me interesan especialmente los **sistemas embebidos**, la **arquitectura de computadores**, el **diseño digital** y el **procesamiento digital de señales**.
+I am an advanced **Computer Engineering** student at the **Costa Rica Institute of Technology (TEC)**. My main interests include **embedded systems**, **computer architecture**, **digital design**, and **digital signal processing**.
 
-Me gusta comprender cómo interactúan el hardware y el software: llevar los conceptos teóricos a implementaciones prácticas, analizar su funcionamiento y explorar oportunidades de optimización. En este perfil comparto proyectos académicos desarrollados individualmente y en equipo, principalmente con **C, C++, SystemVerilog y Linux**.
+I enjoy understanding how hardware and software interact: translating theoretical concepts into practical implementations, analyzing their behavior, and exploring optimization opportunities. On this profile, I share academic projects developed individually and as part of a team, primarily using **C, C++, SystemVerilog, and Linux**.
 
-## 🎯 Áreas de interés
+## 🎯 Areas of Interest
 
-- **Sistemas embebidos y firmware:** integración hardware-software y programación de bajo nivel.
-- **Arquitectura de computadores:** memoria, paralelismo y análisis de rendimiento.
-- **Diseño digital:** modelado, simulación de hardware y desarrollo con FPGA.
-- **Procesamiento digital de señales (DSP):** algoritmos en tiempo real y optimización.
+- **Embedded systems and firmware:** hardware-software integration and low-level programming.
+- **Computer architecture:** memory, parallelism, and performance analysis.
+- **Digital design:** hardware modeling, simulation, and FPGA development.
+- **Digital signal processing (DSP):** real-time algorithms and optimization.
+- **Machine learning and computer vision:** interested in exploring their potential applications in embedded systems and deepening my knowledge in these areas.
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-**Lenguajes y diseño de hardware**
+**Programming Languages and Hardware Design**
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5B3B8C)
-![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-3949AB?logo=arm&logoColor=white)
-![RISC-V Assembly](https://img.shields.io/badge/RISC--V%20Assembly-283272?logo=riscv&logoColor=white)
+![ARMv4 Assembly](https://img.shields.io/badge/ARM%20Assembly-3949AB?logo=arm&logoColor=white)
 
-**Sistemas y plataformas**
+**Systems and Platforms**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Yocto Project](https://img.shields.io/badge/Yocto%20Project-00598B)
@@ -35,7 +34,7 @@ Me gusta comprender cómo interactúan el hardware y el software: llevar los con
 ![FPGA](https://img.shields.io/badge/FPGA-3949AB)
 ![Qt 6](https://img.shields.io/badge/Qt%206-41CD52?logo=qt&logoColor=white)
 
-**Desarrollo, simulación y pruebas**
+**Development, Simulation, and Testing**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -45,58 +44,58 @@ Me gusta comprender cómo interactúan el hardware y el software: llevar los con
 ![Questa](https://img.shields.io/badge/Questa-0A5364)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4)
 
-**Técnicas aplicadas:** SIMD (AVX2), programación paralela, aritmética de punto fijo (Q15), pruebas automatizadas y benchmarking.
+**Applied Techniques:** SIMD (AVX2), parallel programming, fixed-point arithmetic (Q15), automated testing, and benchmarking.
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-### 🤖 [Sistema embebido para robot aspiradora autónomo](https://github.com/ProyectosCE/CE1113_P1)
+### 🤖 [Autonomous Robot Vacuum Embedded System](https://github.com/ProyectosCE/CE1113_P1)
 
 `C` · `Raspberry Pi 4` · `Linux` · `Yocto Project` · `GPIO/PWM`
 
-**El proyecto:** Proyecto en equipo orientado al desarrollo de un sistema embebido para un robot aspiradora, con control de periféricos y funciones previstas de navegación, audio y operación remota.
+**The project:** Team project focused on developing an embedded system for a robot vacuum, with peripheral control and planned navigation, audio, and remote operation features.
 
-**Mis contribuciones:** Desarrollo de interfaces de hardware y una API en C para abstraer GPIO, PWM y otros periféricos; colaboración con recetas de Yocto y organización del trabajo mediante Git y GitHub.
+**My contributions:** Development of hardware interfaces and a C API to abstract GPIO, PWM, and other peripherals; contribution to Yocto recipes and organization of the development workflow using Git and GitHub.
 
-### 🎵 Procesamiento digital de audio en tiempo real
+### 🎵 Real-Time Digital Audio Processing
 
 `C++20` · `DSP` · `YIN` · `SIMD` · `Q15`
 
-**El proyecto:** Aplicación en Linux para analizar y procesar audio en tiempo real, con módulos de detección de tono, síntesis y efectos digitales.
+**The project:** Linux application for real-time audio analysis and processing, featuring pitch detection, synthesis, and digital effects modules.
 
-**Mis contribuciones:** Implementación del detector de tono YIN, un sintetizador senoidal, efectos de retardo FIR/IIR y procesamiento en punto fijo Q15; pruebas de precisión y rendimiento, con optimizaciones SIMD.
+**My contributions:** Implementation of the YIN pitch detector, a sine wave synthesizer, FIR/IIR delay effects, and Q15 fixed-point processing; accuracy and performance testing, including SIMD optimizations.
 
-🔒 **[Repositorio privado](https://github.com/EL5805-26S2/p1-mib.git)** — acceso restringido a miembros autorizados.
+🔒 **[Private Repository](https://github.com/EL5805-26S2/p1-mib.git)** — access restricted to authorized members.
 
-### 🧩 [Modelado de interconnect y coherencia de caché](https://github.com/ProyectosCE/CE4302_PG01)
+### 🧩 [Interconnect and Cache Coherence Modeling](https://github.com/ProyectosCE/CE4302_PG01)
 
-`SystemVerilog` · `Arquitectura de computadores` · `Questa`
+`SystemVerilog` · `Computer Architecture` · `Questa`
 
-**El proyecto:** Modelado y simulación de un sistema de interconexión para analizar el comportamiento de protocolos de coherencia de caché en arquitecturas multiprocesador.
+**The project:** Modeling and simulation of an interconnect system to analyze the behavior of cache coherence protocols in multiprocessor architectures.
 
-**Mis contribuciones:** Diseño y desarrollo de componentes de interconexión y mecanismos de coherencia, junto con su análisis mediante simulaciones en SystemVerilog.
+**My contributions:** Design and development of interconnect components and coherence mechanisms, along with their analysis through SystemVerilog simulations.
 
-### 🧵 [Framework experimental de paralelismo a nivel de hilos (TLP)](https://github.com/JBB092/CE4302_PI)
+### 🧵 [Experimental Thread-Level Parallelism (TLP) Framework](https://github.com/JBB092/CE4302_PI)
 
 `C++` · `Multithreading` · `Linux perf` · `Python`
 
-**El proyecto:** Framework individual para comparar modelos de ejecución y paralelismo utilizando un ecualizador basado en filtros FIR como caso de estudio.
+**The project:** Individual framework for comparing execution and parallelism models using an FIR filter-based equalizer as a case study.
 
-**Mis contribuciones:** Implementación de ejecución secuencial, modelos simulados FGMT/CGMT y aproximaciones de SMT/CMP mediante hilos de C++; automatización de experimentos y análisis de métricas de rendimiento.
+**My contributions:** Implementation of sequential execution, simulated FGMT/CGMT models, and SMT/CMP approximations using C++ threads; automation of experiments and analysis of performance metrics.
 
-### Otros proyectos
+### Other Projects
 
-- **[Paralelismo a nivel de datos (DLP)](https://github.com/ProyectosCE/CE4302_PG02):** comparación de un filtro FIR escalar, SIMD (AVX2/FMA) y GPU (OpenCL). Mis aportes se centraron en las implementaciones escalar y SIMD.
-- **[Cifrado TEA en RISC-V](https://github.com/JBB092/CE4301_P1):** proyecto individual de cifrado y descifrado desarrollado en C y ensamblador RISC-V, ejecutado con QEMU.
+- **[Data-Level Parallelism (DLP)](https://github.com/ProyectosCE/CE4302_PG02):** comparison of a scalar FIR filter, SIMD (AVX2/FMA), and GPU (OpenCL) implementations. My contributions focused on the scalar and SIMD implementations.
+- **[TEA Encryption on RISC-V](https://github.com/JBB092/CE4301_P1):** individual encryption and decryption project developed in C and RISC-V assembly, executed using QEMU.
 
-> Puedes ver más proyectos en mi organización [**ProyectosCE**](https://github.com/ProyectosCE).
+> You can find more projects in my organization [**ProyectosCE**](https://github.com/ProyectosCE).
 
-## 📫 Contacto
+## 📫 Contact
 
-- 📧 **Correo:** [josebarqueroboni@gmail.com](mailto:josebarqueroboni@gmail.com)
+- 📧 **Email:** [josebarqueroboni@gmail.com](mailto:josebarqueroboni@gmail.com)
 - 💼 **LinkedIn:** [jose-bdo-barquero](https://www.linkedin.com/in/jose-bdo-barquero/)
-- 🏢 **Proyectos académicos:** [ProyectosCE](https://github.com/ProyectosCE)
+- 🏢 **Academic Projects:** [ProyectosCE](https://github.com/ProyectosCE)
 
 ---
 
-> “La arquitectura no es sólo la forma del hardware, sino cómo se piensa el software.”  
-> – Inspirado por David A. Patterson
+> “Architecture is not just the shape of hardware, but the way software is conceived.”  
+> – Inspired by David A. Patterson
